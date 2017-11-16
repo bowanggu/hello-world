@@ -1,3 +1,4 @@
 # hello-world
 initial try
-try make and commit changes
+test changes in my branch
+try make and commit changes at master branch
